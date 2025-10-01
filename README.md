@@ -8,7 +8,7 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 ## 💻 Hacker / SOC Animations
 <p align="center">
   <!-- Hacker Pepe / Cyber GIFs -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRtdHBkbXAya28yZXdxamdhcDl1c3V6ZWRhdDBiN2h5MWJjeXY3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN3YXk4MXhycWYwdnZwMzUxODl3OWh6dWR2NDc0eTdpN2NrY3MxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="300"/>
   &nbsp;&nbsp;
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29zNHBxOGY5YjlmdjZ5Z2V3aHJ3YThoaTVkeHQycDFzNzA4bDhmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="300"/>
     &nbsp;&nbsp;
