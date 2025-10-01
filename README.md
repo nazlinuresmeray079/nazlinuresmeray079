@@ -1,7 +1,8 @@
 # 👨‍💻 Junior SOC Analyst Portfolio
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <!-- Hacker / "hack" GIF -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="hacker gif"/>
 </p>
 
 Welcome to my **SOC Analyst GitHub portfolio**!  
