@@ -1,7 +1,7 @@
 # 👨‍💻 Junior SOC Analyst Portfolio
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <img src="https://cdn.pixabay.com/photo/2017/12/10/14/47/cyber-3015992_1280.png" width="180"/>
 </p>
 
 Welcome to my **SOC Analyst GitHub portfolio**!  
@@ -9,9 +9,9 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 
 ---
 
-## 🛡 Security Animation
+## 🛡 Security Visual
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+  <img src="https://cdn.pixabay.com/photo/2017/01/20/00/30/hacker-1990380_1280.png" width="300"/>
 </p>
 <p align="center">Stay alert. Stay secure.</p>
 
@@ -33,21 +33,33 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 ## 📂 Projects
 
 ### 1️⃣ Simple SIEM Log Analyzer
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/09/14/03/33/log-2742660_1280.png" width="150"/>
+</p>
 - **Description:** Parse logs, detect suspicious activity, generate reports & visualizations.  
 - **Tools:** Python, pandas, matplotlib  
 - **Skills:** Log analysis, threat detection, incident response simulation  
 
 ### 2️⃣ Nmap Network Scanner
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/06/23/18/08/network-2436409_1280.png" width="150"/>
+</p>
 - **Description:** Network discovery & port scanning to identify open ports & services.  
 - **Tools:** Nmap, Kali Linux  
 - **Skills:** Network mapping, vulnerability assessment  
 
 ### 3️⃣ HTTP/HTTPS Traffic Analysis
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/03/30/12/36/network-2185023_1280.png" width="150"/>
+</p>
 - **Description:** Capture & analyze web traffic, detect unencrypted data & suspicious patterns.  
 - **Tools:** Wireshark, browser traffic  
 - **Skills:** Packet analysis, traffic monitoring  
 
 ### 4️⃣ SOC Home Lab Simulations
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2018/03/23/13/17/firewall-3258255_1280.png" width="150"/>
+</p>
 - **Description:** Virtual lab setups simulating firewall config, VLANs & access control.  
 - **Tools:** FortiGate VM, VMware, Python scripts  
 - **Skills:** Firewall rules, log monitoring, system administration  
