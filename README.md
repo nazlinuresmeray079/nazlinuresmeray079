@@ -15,6 +15,11 @@ This repository showcases hands-on projects and simulations focused on **cyberse
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM1Zm5keDFnaGRwNXRhbzBpcTJyNWhxOW15aDg3M2RiaGljeXdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77IPoKMZUpzymdNZh/giphy.gif" width="300"/>
     &nbsp;&nbsp;
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyZWQzcHcxdW1wZHc3cWh3cHM5bHZjZTVoaTMxMDZjejJvdG1mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NPXkCN2FutVO1Nt4P9/giphy.gif" width="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1qbDEycGxzaHdlN2lndmp2ZmM0OG93cTVoNWs5Z3JyYWt4MHRmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bmFgUzNXHBSbArMMB/giphy.gif" width="300"/>
+    &nbsp;&nbsp;
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtjN2dpYmd2MTdjYnBwb3dhcGd5dzBvcHQ3MHludTd1NmV1aHB6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="300"/>
+
+  
 </p>
 
 <p align="center">Securing networks, monitoring traffic, and hunting threats!</p>
