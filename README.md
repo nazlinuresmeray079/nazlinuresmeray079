@@ -1,10 +1,11 @@
 # 👨‍💻 Junior SOC Analyst Portfolio
 
 <p align="center">
-  <!-- Pepe Hacker GIF -->
-  <img src="https://media.tenor.com/images/2b1e5a3b6b1f2a3e4b8b5b0d8b6a7b7f/tenor.gif" width="200" alt="Pepe Hacker GIF"/>
-  <!-- Anonymous Hacker GIF -->
-  <img src="https://media.tenor.com/images/3c1e0e1c1d3e0e1c1e1e1c1e1e1e1e1e/tenor.gif" width="200" alt="Anonymous Hacker GIF"/>
+  <!-- Hacker Pepe GIF -->
+  <img src="https://media.tenor.com/images/2b1e5a3b6b1f2a3e4b8b5b0d8b6a7b7f/tenor.gif" width="200" alt="Hacker Pepe GIF"/>
+  &nbsp;&nbsp;
+  <!-- Anonymous Pepe GIF -->
+  <img src="https://media.tenor.com/images/3c1e0e1c1d3e0e1c1e1e1c1e1e1e1e1e/tenor.gif" width="200" alt="Anonymous Pepe GIF"/>
 </p>
 
 
