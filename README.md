@@ -9,6 +9,14 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 
 ---
 
+## 🛡 Security Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
+<p align="center">Stay alert. Stay secure.</p>
+
+---
+
 ## 🛠 Tools & Technologies
 
 <p align="center">
@@ -56,11 +64,10 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 
 ## 📬 Contact
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:nazliinuresmeray079@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nazlinuresmeray/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-> ⚡ **Note:** Projects are simulations and labs created for learning purposes and skill development in cybersecurity operations.
+> ⚡ **Note:** These projects are simulations and home lab exercises created for learning purposes and skill development in cybersecurity operations.
