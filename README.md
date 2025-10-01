@@ -8,12 +8,15 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 ## 💻 Hacker / SOC Animations
 <p align="center">
   <!-- Hacker Pepe / Cyber GIFs -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNyeGx3anI5dGc5bjFrZDZ0cDZvOWoybzN5dDJpam9yaDF4NHlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRtdHBkbXAya28yZXdxamdhcDl1c3V6ZWRhdDBiN2h5MWJjeXY3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.gif" width="300"/>
   &nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRtdHBkbXAya28yZXdxamdhcDl1c3V6ZWRhdDBiN2h5MWJjeXY3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.gif" width="200"/>
-  &nbsp;&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29zNHBxOGY5YjlmdjZ5Z2V3aHJ3YThoaTVkeHQycDFzNzA4bDhmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29zNHBxOGY5YjlmdjZ5Z2V3aHJ3YThoaTVkeHQycDFzNzA4bDhmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="300"/>
+    &nbsp;&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM1Zm5keDFnaGRwNXRhbzBpcTJyNWhxOW15aDg3M2RiaGljeXdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77IPoKMZUpzymdNZh/giphy.gif" width="300"/>
+    &nbsp;&nbsp;
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyZWQzcHcxdW1wZHc3cWh3cHM5bHZjZTVoaTMxMDZjejJvdG1mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NPXkCN2FutVO1Nt4P9/giphy.gif" width="300"/>
 </p>
+
 <p align="center">Securing networks, monitoring traffic, and hunting threats!</p>
 
 ---
@@ -34,17 +37,11 @@ This repository showcases hands-on projects and simulations focused on **cyberse
 ## 📂 Projects
 
 ### 1️⃣ Simple SIEM Log Analyzer
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM1Zm5keDFnaGRwNXRhbzBpcTJyNWhxOW15aDg3M2RiaGljeXdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77IPoKMZUpzymdNZh/giphy.gif" width="250"/>
-</p>
 - **Description:** Parse logs, detect suspicious activity, generate reports & visualizations.  
 - **Tools:** Python, pandas, matplotlib  
 - **Skills:** Log analysis, threat detection, incident response simulation  
 
 ### 2️⃣ Nmap Network Scanner
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyZWQzcHcxdW1wZHc3cWh3cHM5bHZjZTVoaTMxMDZjejJvdG1mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NPXkCN2FutVO1Nt4P9/giphy.gif" width="250"/>
-</p>
 - **Description:** Network discovery & port scanning to identify open ports & services.  
 - **Tools:** Nmap, Kali Linux  
 - **Skills:** Network mapping, vulnerability assessment  
