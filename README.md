@@ -1,9 +1,9 @@
 # 👨‍💻 Junior SOC Analyst Portfolio
 
 <p align="center">
-  <!-- Hacker / "hack" GIF -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="hacker gif"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Hacker Animation"/>
 </p>
+
 
 Welcome to my **SOC Analyst GitHub portfolio**!  
 This repository showcases hands-on projects and simulations focused on **cybersecurity, log analysis, incident response, and threat detection**.
