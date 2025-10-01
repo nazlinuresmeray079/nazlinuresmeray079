@@ -1,7 +1,10 @@
 # 👨‍💻 Junior SOC Analyst Portfolio
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Hacker Animation"/>
+  <!-- Pepe Hacker GIF -->
+  <img src="https://media.tenor.com/images/2b1e5a3b6b1f2a3e4b8b5b0d8b6a7b7f/tenor.gif" width="200" alt="Pepe Hacker GIF"/>
+  <!-- Anonymous Hacker GIF -->
+  <img src="https://media.tenor.com/images/3c1e0e1c1d3e0e1c1e1e1c1e1e1e1e1e/tenor.gif" width="200" alt="Anonymous Hacker GIF"/>
 </p>
 
 
